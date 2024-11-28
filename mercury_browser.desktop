@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=129.0.2
+Name=MercuryBrowser
+GenericName=Web Browser
+Comment=An optimized variant of Firefox
+Exec=/opt/mercury-browser/mercury/mercury-bin %U
+Icon=/opt/mercury-browser/mercury/mercury_browser_logo.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;Security;
+StartupNotify=true
+MimeType=application/json;application/pdf;application/rdf+xml;application/rss+xml;application/xhtml+xml;application/xhtml_xml;application/xml;image/gif;image/jpeg;image/png;image/webp;text/html;text/xml;x-scheme-handler/http;x-scheme-handler/https;
+Comment=Mercury Browser
+StartupWMClass=Mercury
